@@ -36,7 +36,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="text-center"><button class="btn btn-primary btn-xl" id="submitButton" type="submit" >Login</button></div>
+
+            <!--div class="text-center"><button class="btn btn-primary btn-xl" id="submitButton" type="submit" >Login</button></div-->
         </nav>
         <!-- Masthead-->
         <header class="masthead">
